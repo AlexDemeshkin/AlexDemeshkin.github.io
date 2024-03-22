@@ -205,9 +205,7 @@
         </ul>
     </div>
   </end>
-  <script src="js/main.js">
-    
-  </script>
+
 </body>
 </html>
 
